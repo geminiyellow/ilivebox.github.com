@@ -1,3 +1,8 @@
+---
+layout: default
+title: How to Calepin
+---
+
 Title: 简单Calepin教程
 Date: 2013-12-04
 Category:StaticSite
